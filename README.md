@@ -17,9 +17,12 @@ Dans "Enemis/Scripts" on retrouve ce qui permet de déplacer les bras, gérer la
 Dans "Personnage/Scripts" on retrouve ce qui permet aux NPC de tirer, se déplacer, être animés, et mourir notamment.
 
 Commandes de jeu : 
+
 	- Déplacement -> WASD ou flèches directionnelles 
 	- Saut -> Barre espace
 	- Caméra -> Souris 
 	- Tirs simples -> I
 	- Tirs destructeurs de décor -> O
 	- Super tir -> P
+	
+Pour quitter le jeu, il faut Alt+F4
